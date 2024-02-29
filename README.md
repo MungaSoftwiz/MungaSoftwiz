@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png" alt="vim" title="Vim" height="50"/></code>
   <code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" title="VSCode" height="50"/></code>
   <!-- Others -->
-  <code><img alt="Github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></code>
+  <code><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="github" title="Github" height="50"/></code>
 </p>
 
 
