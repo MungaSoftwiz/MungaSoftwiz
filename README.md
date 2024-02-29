@@ -39,11 +39,11 @@ Here are some ideas to get you started:
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" height="50"/></code>
   <!-- Frameworks -->
   <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" height="50"/></code>
-  <code><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy" title="SQLAlchemy" height="50"/></code>
+  <code><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy ORM" title="SQLAlchemy ORM" height="50"/></code>
   <!-- Backend Development -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="Nginx" height="50"/></code>
   <code><img src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" alt="Rest API" title="REST API" height="50"/></code>
-  <code><img src="https://cdn-icons-png.flaticon.com/512/541/541488.png" alt="json" title="JSON" height="50"/></code>
+  <code><img src="<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1024px-JSON_vector_logo.svg.png" alt="json" title="JSON" height="50"/></code>
   <!-- Databases -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" height="50"/></code>
   <!-- DevOps -->
