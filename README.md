@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;I'm+Munga!;Welcome+to+my+GitHub+page!;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;I'm+Munga!;Welcome+to+my+GitHub+page😊!;"/>
 </h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 
