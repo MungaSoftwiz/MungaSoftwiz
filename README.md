@@ -40,9 +40,6 @@ Here are some ideas to get you started:
   <!-- Frameworks -->
   <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" height="50"/></code>
   <code><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy" title="SQLAlchemy" height="50"/></code>
-  <!-- Dependency Management -->
-  <code><img src="https://python-poetry.org/images/logo.svg" alt="poetry" title="Poetry" height="50"/></code>
-  <code><img src="https://raw.githubusercontent.com/pypa/pip/master/docs/_static/pip-logo.png" alt="pip3" title="pip3" height="50"/></code>
   <!-- Backend Development -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="Nginx" height="50"/></code>
   <code><img src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" alt="Rest API" title="REST API" height="50"/></code>
@@ -57,6 +54,9 @@ Here are some ideas to get you started:
   <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium" height="50"/></code>
   <!-- Others -->
   <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" height="50"/></code>
+  <!-- Code Editors -->
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png" alt="vim" title="Vim" height="50"/></code>
+  <code><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" title="VSCode" height="50"/></code>
 </p>
 
 
