@@ -13,16 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+there!+👋;I'm+Munga!;Welcome+to+my+GitHub+page!;"/>
-</h1>
-<h3 align="center">A passionate backend developer from Kenya</h3>
+<h1 align="center">Hello there, I'm Munga</h1>
+
+<h3 align="center">Backend Engineer | Technical Writer in progress</h3>
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
 
 - 🌱 I’m currently learning **Technical writing and Go**
 
-- 💬 Ask me about **Backend Engineering, System Design**
+- 💬 Ask me about **Backend Engineering and System Design**
 
 - 📫 How to reach me **mwachilumobm@gmail.com**
 
