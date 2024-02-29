@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" height="50"/></code>
   <code><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy ORM" title="SQLAlchemy ORM" height="40"/></code>
   <!-- Templating Engine -->
-  <code><img src="https://raw.githubusercontent.com/pallets/jinja/main/docs/_static/jinja.png" alt="jinja2" title="Jinja2" height="50"/></code>
+  <code><img src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" alt="jinja2" title="Jinja2" height="50"/></code>
   <!-- Backend Development -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="Nginx" height="50"/></code>
   <code><img src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" alt="Rest API" title="REST API" height="50"/></code>
