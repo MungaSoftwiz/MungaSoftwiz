@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <!-- Backend Development -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="Nginx" height="50"/></code>
   <code><img src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" alt="Rest API" title="REST API" height="50"/></code>
-  <code><img src="https://cdn-icons-png.flaticon.com/512/541/541488.png" alt="json" title="JSON" height="10"/></code>
+  <code><img src="https://cdn-icons-png.flaticon.com/512/541/541488.png" alt="json" title="JSON" height="50"/></code>
   <!-- Databases -->
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" height="50"/></code>
   <!-- DevOps -->
