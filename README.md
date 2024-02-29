@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Technical writing and Go**
 
-- 💬 Ask me about **Flask**
+- 💬 Ask me about **Backend Engineering, System Design**
 
 - 📫 How to reach me **mwachilumobm@gmail.com**
 
