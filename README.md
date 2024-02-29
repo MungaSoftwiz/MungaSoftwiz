@@ -60,8 +60,4 @@ Here are some ideas to get you started:
   <code><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="github" title="Github" height="50"/></code>
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mungasoftwiz&show_icons=true&locale=en&layout=compact" alt="mungasoftwiz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mungasoftwiz&show_icons=true&locale=en" alt="mungasoftwiz" /></p>
