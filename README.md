@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   <code><img src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" alt="Rest API" title="REST API" height="50"/></code>
   <code><img src="https://cdn-icons-png.flaticon.com/512/541/541488.png" alt="json" title="JSON" height="50"/></code>
   <!-- Databases -->
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" title="SQL" height="50"/></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" alt="mysql" title="MySQL" height="50"/></code>
   <!-- DevOps -->
   <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" height="50"/></code>
