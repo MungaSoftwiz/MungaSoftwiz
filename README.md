@@ -57,6 +57,7 @@ Here are some ideas to get you started:
   <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" height="50"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" height="50"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" height="50"/></code>
+  <code><img src="https://www.puppet.com/sites/default/themes/custom/puppet/logo.svg" alt="puppet" title="Puppet" height="50"/></code>
   <!-- Testing -->
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" title="Pytest" height="75"/></code>
   <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium" height="50"/></code>
