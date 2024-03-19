@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
 
-- 🌱 I’m currently learning **Technical writing and Go**
+- 🌱 I’m currently learning **OCaml**
 
 - 💬 Ask me about **Backend Engineering and System Design**
 
