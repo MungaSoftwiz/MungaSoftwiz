@@ -59,7 +59,6 @@ Here are some ideas to get you started:
   <code><img src="https://www.puppet.com/sites/default/themes/custom/puppet/logo.svg" alt="puppet" title="Puppet" height="50"/></code>
   <!-- Testing -->
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" title="Pytest" height="75"/></code>
-  <code><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" title="Selenium" height="50"/></code>
   <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" height="50"/></code>
   <!-- Code Editors -->
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1024px-Vimlogo.svg.png" alt="vim" title="Vim" height="50"/></code>
