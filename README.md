@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Backend Engineer | Technical Writer in progress</h3>
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
+
 - 🔭 I’m currently working on **EcoSortify**
 
 - 🌱 I’m currently learning **OCaml**
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/boniface-munga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boniface-munga/" height="30" width="40" /></a>
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="40" width="60" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mungasoftwiz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mungasoftwiz" /></p>
 
 <details> 
   <summary><h3 align="left">Munga's Tech Toolbox 🧰:</h3></summary>
@@ -69,5 +72,3 @@ Here are some ideas to get you started:
     <code><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="github" title="Github" height="50"/></code>
   </p>
 </details>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mungasoftwiz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mungasoftwiz" /></p>
