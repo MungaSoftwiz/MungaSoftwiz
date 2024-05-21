@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Backend Engineer | Technical Writer in progress</h3>
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
+- 🔭 I’m currently working on **EcoSortify**
 
 - 🌱 I’m currently learning **OCaml**
 
@@ -69,4 +70,4 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mungasoftwiz&show_icons=true&locale=en&layout=compact" alt="mungasoftwiz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mungasoftwiz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mungasoftwiz" /></p>
