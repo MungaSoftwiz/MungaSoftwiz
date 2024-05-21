@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="40" width="60" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mungasoftwiz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mungasoftwiz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mungasoftwiz&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mungasoftwiz" /></p><br>
 
 <details> 
   <summary><h3 align="left">Munga's Tech Toolbox 🧰:</h3></summary>
