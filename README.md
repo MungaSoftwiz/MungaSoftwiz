@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **EcoSortify**
 
-- 🌱 I’m currently learning **OCaml**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Backend Engineering and System Design**
 
