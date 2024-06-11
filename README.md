@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect and reach me 🤝📫:</h3>
 <p align="left">
-<a href="https://x.com/mungasoftwiz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/X_logo_2023.svg" alt="X(formerly twitter)" height="30" width="40" /></a>
+<a href="https://x.com/mungasoftwiz" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X(formerly twitter)" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/boniface-munga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boniface-munga/" height="30" width="40" /></a>
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="40" width="60" /></a>
 </p>
