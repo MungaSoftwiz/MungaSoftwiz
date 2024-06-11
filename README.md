@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect and reach me 🤝📫:</h3>
 <p align="left">
-<a href="https://twitter.com/mungasoftwiz" target="blank">
-<img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA/0lEQVR4AbXPIazCMACE4d+L2qoZFEGSIGcRc/gJJB5XMzGJmK9EN0HMi+qaibkKVF1txdQe4g0YzPK5yyWXHL9TaPNQ89LojH87N1rbJcXkMF4Fk31UMrf34hm14KUeoQxGArALHTMuQD2cAWQfJXOpgTbksGr9ng8qluShJTPhyCdx63POg7rEim95ZyR68I1ggQpnCEGwyPicw6hZtPEGmnhkycqOio1zm6XuFtyw5XDXfGvuau0dXHzJp8pfBPuhIXO9ZK5ILUCdSvLYMpc6ASBtl3EaC97I4KaFaOCaBE9Zn5jUsVqR2vcTJZO1DdbGoZryVp94Ka/mQfE7f2T3df0WBhLDAAAAAElFTkSuQmC" alt="mungasoftwiz" height="30" width="40" />
-</a>
+<a href="https://x.com/mungasoftwiz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/X_logo_2023.svg" alt="X(formerly twitter)" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/boniface-munga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boniface-munga/" height="30" width="40" /></a>
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="40" width="60" /></a>
 </p>
