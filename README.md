@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Backend Engineering and System Design**
 
-- ⚡ Fun fact: **I once created an 'Oops' loop so infinite it took 3 cups of coffee to break free!".**
+- ⚡ Fun fact: **I once created an 'Oops' loop so infinite it took 3 cups of coffee to break free!.**
 
 <h3 align="left">Connect and reach me 🤝📫:</h3>
 <p align="left">
