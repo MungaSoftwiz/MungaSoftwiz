@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there👋, I'm Munga</h1>
 
-<h3 align="center">Backend Engineer | Technical Writer in progress</h3>
+<h3 align="center">Backend Software Engineer | Technical Writer in progress</h3>
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
 
