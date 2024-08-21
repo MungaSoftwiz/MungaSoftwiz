@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on AI projects at **Headstarter AI**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning about **LLMs, RAG, Generative AI**
 
 - 💬 Ask me about **Backend Engineering and System Design**
 
