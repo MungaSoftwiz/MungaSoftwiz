@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
 
-- 🔭 I’m currently working on upskilling in data Eng. at **Datacamp**
+- 🔭 I’m currently upskilling at **Datacamp**
 
 - 🌱 I’m currently learning about **Data Engineering**
 
