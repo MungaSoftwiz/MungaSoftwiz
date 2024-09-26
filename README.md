@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there👋, I'm Munga</h1>
 
-<h3 align="center">AI Software Engineer</h3>
+<h3 align="center">Backend Software Engineer | Aspiring Data Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
 
-- 🔭 I’m currently working on AI projects at **Headstarter AI**
+- 🔭 I’m currently working on upskilling in data Eng. at **Datacamp**
 
-- 🌱 I’m currently learning about **LLMs, RAG, Generative AI**
+- 🌱 I’m currently learning about **Data Engineering**
 
 - 💬 Ask me about **Backend Engineering and System Design**
 
