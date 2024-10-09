@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
 
-<!-- - 🔭 I’m currently contributing at **Da** -->
+- 🔭 I’m currently working on **Django projects**
 
-- 🌱 I’m currently learning about **OCaml**
+- 🌱 I’m currently learning about **Data Engineering**
 
 - 💬 Ask me about **Backend Engineering and System Design**
 
