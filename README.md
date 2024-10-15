@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Backend Software Engineer | Aspiring Data Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p> -->
 
 - 🔭 I’m currently working on **Django projects**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect and reach me 🤝📫:</h3>
 <p align="left">
 <a href="https://x.com/mungasoftwiz" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" alt="X(formerly twitter)" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/boniface-munga-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bmunga-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="50" width="70" /></a>
 </p>
 
