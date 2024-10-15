@@ -40,8 +40,10 @@ Here are some ideas to get you started:
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" height="50"/></code>
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" title="Go" height="50"/></code>
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" height="50"/></code>
-    <!-- Frameworks -->
+    <!-- Python Frameworks -->
     <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" height="50"/></code>
+    <!-- NodeJS -->
+    <code><img alt="Node.js" title="Node.js" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code>
     <!-- Object Relational Mapper -->
     <code><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy ORM" title="SQLAlchemy ORM" height="40"/></code>
     <!-- Templating Engine -->
@@ -55,6 +57,11 @@ Here are some ideas to get you started:
     <!-- Databases -->
     <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" title="SQL" height="50"/></code>
     <code><img src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" alt="mysql" title="MySQL" height="50"/></code>
+    <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></code>
+    <code><img alt="MongoDB" title="MongoDB" height="50" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" /></code>
+    <code><img alt="Redis" title="Redis" height="50" src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png" /></code>
+    <!-- Containerisation & Orchestration -->
+    <code><img alt="Docker" title="Docker" height="50" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" /></code>
     <!-- DevOps -->
     <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" height="50"/></code>
     <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" height="50"/></code>
