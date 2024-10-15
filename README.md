@@ -43,6 +43,7 @@ Here are some ideas to get you started:
     <code><img alt="python" title="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <!-- Python Frameworks -->
     <code><img alt="flask" title="Flask" height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/></code>
+    <code><img alt="django" title="Django" height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/></code>
     <!-- Javascript Ecosystem -->
     <code><img alt="Node.js" title="Node.js" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code>
     <code><img alt="express" title="Express.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code> 
