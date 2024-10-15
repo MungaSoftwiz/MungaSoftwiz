@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <code><img alt="flask" title="Flask" height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/></code>
     <!-- Javascript Ecosystem -->
     <code><img alt="Node.js" title="Node.js" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code>
-    <code><img alt="express" title="Express.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>code> 
+    <code><img alt="express" title="Express.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code> 
     <!-- Object Relational Mapper -->
     <code><img alt="sqlalchemy ORM" title="SQLAlchemy ORM" height="40" src="https://www.sqlalchemy.org/img/sqla_logo.png"/></code>
     <!-- Templating Engine -->
