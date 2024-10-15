@@ -57,7 +57,8 @@ Here are some ideas to get you started:
     <code><img alt="nginx" title="Nginx" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></code>
     <code><img alt="Rest API" title="REST API" height="50" src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png"/></code>
     <code><img alt="json" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png"/></code>
-    <code><img alt="firebase" title="Firebase" height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code>
+    <!-- <code><img alt="firebase" title="Firebase" height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code> -->
+    <code><img alt="firebase" title="Firebase" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png"></code>
     <!-- Databases -->
     <code><img alt="sql" title="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></code>
     <code><img alt="mysql" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/></code>
