@@ -43,8 +43,9 @@ Here are some ideas to get you started:
     <code><img alt="python" title="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <!-- Python Frameworks -->
     <code><img alt="flask" title="Flask" height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"/></code>
-    <!-- NodeJS -->
+    <!-- Javascript Ecosystem -->
     <code><img alt="Node.js" title="Node.js" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code>
+    <code><img alt="express" title="Express.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>code> 
     <!-- Object Relational Mapper -->
     <code><img alt="sqlalchemy ORM" title="SQLAlchemy ORM" height="40" src="https://www.sqlalchemy.org/img/sqla_logo.png"/></code>
     <!-- Templating Engine -->
@@ -55,6 +56,7 @@ Here are some ideas to get you started:
     <code><img alt="nginx" title="Nginx" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/></code>
     <code><img alt="Rest API" title="REST API" height="50" src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png"/></code>
     <code><img alt="json" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png"/></code>
+    <code><img alt="firebase" title="Firebase" height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code>
     <!-- Databases -->
     <code><img alt="sql" title="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></code>
     <code><img alt="mysql" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/></code>
