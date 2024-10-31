@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     <!-- Object Relational Mapper -->
     <code><img alt="sqlalchemy ORM" title="SQLAlchemy ORM" height="40" src="https://www.sqlalchemy.org/img/sqla_logo.png"/></code>
     <!-- Templating Engine -->
-    <code><img alt="jinja2" title="Jinja2" height="50" src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png"/></code>
+<!--     <code><img alt="jinja2" title="Jinja2" height="50" src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png"/></code> -->
     <!-- Dependency Management -->
     <code><img alt="poetry" title="Poetry" height="50" src="https://python-poetry.org/images/logo-origami.svg"/></code>
     <!-- Backend Development -->
