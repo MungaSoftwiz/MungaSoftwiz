@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="50" width="70" /></a>
 </p>
 
-<details> 
-  <summary><h3 align="left">Munga's Tech Toolbox 🧰:</h3></summary>
+<details>
+  <summary>Tech Stack</summary>
+  <h3 align="left">Munga's Tech Toolbox 🧰:</h3>
   <p align="left">
     <!-- Programming -->
     <code><img alt="c" title="C" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></code>
