@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Tech Stack</summary>
-  <h3 align="left">Munga's Tech Toolbox 🧰:</h3>
+  <h2 align="left">Munga's Tech Toolbox 🧰:</h2>
   <p align="left">
     <!-- Programming -->
     <code><img alt="c" title="C" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></code>
