@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="50" width="70" /></a>
 </p>
 
-https://iconduck.com/icons/20279/flask
+https://iconduck.com/icons/20279/flask?shared
 <details> 
   <summary><h3 align="left">Munga's Tech Toolbox 🧰:</h3></summary>
   <p align="left">
@@ -44,7 +44,7 @@ https://iconduck.com/icons/20279/flask
     <code><img alt="python" title="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <!-- Python Frameworks -->
 <!--     <code><img alt="flask" title="Flask" height="50" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png"/></code> -->
-    <code><img alt="flask" title="Flask" height="50" src="https://iconduck.com/icons/20279/flask"/></code>
+    <code><img alt="flask" title="Flask" height="50" src="https://iconduck.com/icons/20279/flask?shared"/></code>
     <code><img alt="django" title="Django" height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/></code>
     <code><img alt="fastapi" title="FastAPI" height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/></code>
     <!-- Javascript Ecosystem -->
