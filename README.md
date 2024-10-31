@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello there👋, I'm Munga</h1>
+<h1 align="center">Hello there👋, I'm B. Munga</h1>
 
 <h3 align="center">Backend Software Engineer | Aspiring Data Engineer</h3>
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="50" width="70" /></a>
 </p>
 
+
 <details> 
   <summary><h3 align="left">Munga's Tech Toolbox 🧰:</h3></summary>
   <p align="left">
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
     <!-- Python Frameworks -->
     <code><img alt="flask" title="Flask" height="50" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png"/></code>
     <code><img alt="django" title="Django" height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/></code>
+    <code><img alt="fastapi" title="FastAPI" height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/></code> -->
     <!-- Javascript Ecosystem -->
 <!--     <code><img alt="Node.js" title="Node.js" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code> -->
 <!--     <code><img alt="express" title="Express.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/></code>  -->
