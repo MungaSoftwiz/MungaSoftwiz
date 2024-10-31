@@ -42,7 +42,8 @@ Here are some ideas to get you started:
     <code><img alt="go" title="Go" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/></code>
     <code><img alt="python" title="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <!-- Python Frameworks -->
-    <code><img alt="flask" title="Flask" height="50" src="https://ih1.redbubble.net/image.1759793374.3844/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"/></code>
+    <code><img alt="flask" title="Flask" height="50" src="![image](https://github.com/user-attachments/assets/fa6e2022-2124-45df-955a-65e01b9c16ed)
+"/></code>
     <code><img alt="django" title="Django" height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/></code>
     <!-- Javascript Ecosystem -->
     <code><img alt="Node.js" title="Node.js" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code>
