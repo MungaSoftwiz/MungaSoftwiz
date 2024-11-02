@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!--     <code><img alt="go" title="Go" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/></code> -->
     <code><img alt="python" title="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <!-- Python Frameworks -->
-    <code><img alt="flask" title="Flask" height="50" src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png"/></code>
+    <code><img alt="flask" title="Flask" height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg"/></code>
     <code><img alt="django" title="Django" height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg"/></code>
     <code><img alt="fastapi" title="FastAPI" height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/></code>
     <!-- Javascript Ecosystem -->
