@@ -83,10 +83,10 @@ Here are some ideas to get you started:
     <!-- Others -->
     <code><img alt="github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png"/></code>
   </p>
+</details>
 
-  <div align="center">
+<div align="center">
   <a href="https://open.spotify.com/user/Grootman4PF">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Grootman4PF&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-  </div>
-</details>
+</div>
