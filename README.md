@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     <!-- <code><img alt="firebase" title="Firebase" height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code> -->
     <code><img alt="firebase" title="Firebase" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png"></code>
     <!-- Databases -->
-    <code><img alt="sql" title="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></code>
+<!--     <code><img alt="sql" title="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></code> -->
     <code><img alt="mysql" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/></code>
     <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/></code>
     <code><img alt="MongoDB" title="MongoDB" height="50" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"/></code>
