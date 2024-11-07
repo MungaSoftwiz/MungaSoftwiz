@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **I once created an 'Oops' loop so infinite it took 3 cups of coffee to break free!.**
 
-<h3 align="left">Connect and reach me 🤝📫:</h3>
+<h3 align="left">Connect and reach me 🤝🏽📫:</h3>
 <p align="left">
 <a href="https://x.com/mungasoftwiz" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" alt="X(formerly twitter)" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/bmunga-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
