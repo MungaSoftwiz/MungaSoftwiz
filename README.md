@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello there👋, I'm B. Munga</h1>
+<h1 align="center">Hello there👋🏽, I'm B. Munga</h1>
 
 <h3 align="center">Backend Software Engineer</h3>
 
