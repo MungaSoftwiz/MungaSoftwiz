@@ -3,29 +3,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... **Django projects**
+- 🌱 I’m currently learning ... **Backend Architectures**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... **Backend Engineering and System Design**
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... **I once created an 'Oops' loop so infinite it took 3 cups of coffee to break free!.**
 -->
 
 <h1 align="center">Hello there👋🏽, I'm B. Munga</h1>
 
 <h3 align="center">Backend Software Engineer</h3>
 
-<!-- <p align="left"> <a href="https://twitter.com/mungasoftwiz" target="blank"><img src="https://img.shields.io/twitter/follow/mungasoftwiz?logo=twitter&style=for-the-badge" alt="mungasoftwiz" /></a> </p> -->
+From the moment I could click a mouse, I’ve been hooked on technology. I was the kid who’d stay up late (possibly way too late) playing games, not just for fun but to understand what made them tick. Sometimes that meant my homework took a backseat, but hey—priorities, right?
 
-- 🔭 I’m currently working on **Django projects**
+Fast forward a few years, and that same curiosity led me to software development. Now, I spend my time creating applications, building APIs, and learning the ins and outs of backend frameworks. I’m passionate about transforming technical ideas into secure, functional, and downright cool applications. And yes, I still lose track of time, but now it’s at my keyboard, not my game console (okay, sometimes both).
 
-- 🌱 I’m currently learning about **Backend Architectures**
+### What can I bring to the table?
 
-- 💬 Ask me about **Backend Engineering and System Design**
+I'm here to solve problems, whether it's **building a fast, scalable API** or keeping things **secure** and **well-documented** (because who doesn’t love good documentation?). I thrive in **collaborative environments**, where I get to work with other developers and occasionally wow non-tech folks with “the magic” that we call code.😄
 
-- ⚡ Fun fact: **I once created an 'Oops' loop so infinite it took 3 cups of coffee to break free!.**
+Feel free to reach out if you want to collaborate, discuss tech, or just chat about the latest in Python frameworks!
 
 <h3 align="left">Connect and reach me 🤝🏽📫:</h3>
 <p align="left">
