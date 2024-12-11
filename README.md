@@ -25,7 +25,7 @@ Fast forward a few years, and that same curiosity led me to software development
 
 I'm here to solve problems, whether it's **building a fast, scalable API** or keeping things **secure** and **well-documented** (because who doesn’t love good documentation?). I thrive in **collaborative environments**, where I get to work with other developers and occasionally wow non-tech folks with “the magic” that we call code.😄
 
-Feel free to reach out if you want to collaborate, discuss tech, or just chat about the latest in Python frameworks!
+Feel free to reach out if you want to collaborate, discuss tech, or just chat about functional programming!
 
 <h3 align="left">Connect and reach me 🤝🏽📫:</h3>
 <p align="left">
@@ -41,6 +41,7 @@ Feel free to reach out if you want to collaborate, discuss tech, or just chat ab
     <!-- Programming -->
     <code><img alt="c" title="C" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></code>
 <!--     <code><img alt="go" title="Go" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/></code> -->
+    <code><img alt="OCaml" title="OCaml" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6eCZnm2QPsHHB0Z8AsdYRLFxDr_KEjy46Vw&s"/></code>
     <code><img alt="python" title="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
     <!-- Python Frameworks -->
     <code><img alt="flask" title="Flask" height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg"/></code>
@@ -73,7 +74,7 @@ Feel free to reach out if you want to collaborate, discuss tech, or just chat ab
     <code><img alt="bash" title="Bash" height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/></code>
     <code><img alt="git" title="Git" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code>
     <code><img alt="linux" title="Linux" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
-    <code><img alt="puppet" title="Puppet" height="50" src="https://www.puppet.com/sites/default/themes/custom/puppet/logo.svg"/></code>
+    <code><img alt="puppet" title="Puppet" height="50" src="https://iconape.com/wp-content/files/ww/371350/svg/371350.svg"/></code>
     <!-- Testing -->
     <code><img alt="pytest" title="Pytest" height="75" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"/></code>
     <code><img alt="postman" title="Postman" height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code>
