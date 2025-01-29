@@ -31,7 +31,7 @@ Feel free to reach out if you want to collaborate, discuss tech, or just chat ab
 <p align="left">
 <a href="https://x.com/mungasoftwiz" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png" alt="X(formerly twitter)" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/bmunga-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="Email" height="50" width="50" /></a>
+<a href="mailto:mwachilumobm@gmail.com"><img align="center" src="https://img.icons8.com/?size=100&id=DFFqB92yCRBL&format=png&color=000000" alt="Email" height="50" width="50" /></a>
 </p>
 
 <details>
